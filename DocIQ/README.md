@@ -6,7 +6,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.35+-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-Vector_DB-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
 
 **Upload any document. Ask anything. Get answers grounded in your content.**
 

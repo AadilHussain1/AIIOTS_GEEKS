@@ -95,8 +95,8 @@ dociq/
 
 ### Step 1 — Clone the repository
 ```bash
-git clone https://github.com/YOURNAME/dociq.git
-cd dociq
+git clone https://github.com/AadilHussain1/AIIOTS_GEEKS.git
+cd AIIOTS_GEEKS
 ```
 
 ### Step 2 — Create virtual environment

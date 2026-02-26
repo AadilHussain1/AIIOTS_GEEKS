@@ -1,0 +1,74 @@
+JOHN DOE
+Software Engineer | AI/ML Specialist
+Email: john.doe@email.com | Phone: (555) 123-4567
+LinkedIn: linkedin.com/in/johndoe | GitHub: github.com/johndoe
+
+PROFESSIONAL SUMMARY
+Experienced Software Engineer with 5+ years of expertise in Machine Learning, Deep Learning, and Full-Stack Development. Passionate about building scalable AI solutions and working with cutting-edge technologies. Strong background in Python, TensorFlow, and cloud platforms.
+
+TECHNICAL SKILLS
+- Programming Languages: Python, Java, JavaScript, C++, SQL
+- Machine Learning: TensorFlow, PyTorch, Scikit-learn, Keras, NLP, Computer Vision
+- Deep Learning: Neural Networks, CNN, RNN, Transformers, BERT
+- Data Science: Pandas, NumPy, Matplotlib, Seaborn, Data Analysis
+- Web Development: React, Node.js, HTML, CSS, REST API
+- Databases: PostgreSQL, MongoDB, MySQL, Redis
+- Cloud & DevOps: AWS, Docker, Kubernetes, Git, CI/CD
+- Tools & Frameworks: Jupyter, VS Code, Agile, Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Senior Machine Learning Engineer | Tech Innovations Inc.
+January 2021 - Present
+- Developed and deployed 10+ machine learning models for production use
+- Built NLP systems using BERT and transformers for text classification
+- Implemented computer vision solutions using PyTorch and TensorFlow
+- Optimized model performance achieving 95% accuracy on key metrics
+- Led a team of 4 engineers in agile development environment
+- Deployed scalable solutions on AWS using Docker and Kubernetes
+
+Software Engineer | Digital Solutions Ltd.
+June 2018 - December 2020
+- Developed full-stack web applications using React and Node.js
+- Created RESTful APIs for data integration and processing
+- Implemented database solutions using PostgreSQL and MongoDB
+- Collaborated with cross-functional teams in agile sprints
+- Improved application performance by 40% through optimization
+
+EDUCATION
+
+Master of Science in Computer Science
+Stanford University | 2016 - 2018
+Focus: Artificial Intelligence and Machine Learning
+
+Bachelor of Science in Software Engineering  
+MIT | 2012 - 2016
+
+PROJECTS
+
+AI Resume Screener
+- Built an NLP-based resume screening system using BERT
+- Implemented semantic similarity matching with 85% accuracy
+- Created interactive dashboard with Plotly visualizations
+- Technologies: Python, Sentence-Transformers, Streamlit
+
+Image Classification System
+- Developed CNN model for multi-class image classification
+- Achieved 92% accuracy on test dataset
+- Deployed on AWS with auto-scaling capabilities
+- Technologies: TensorFlow, Keras, AWS, Docker
+
+CERTIFICATIONS
+- AWS Certified Machine Learning - Specialty
+- TensorFlow Developer Certificate
+- Professional Scrum Master (PSM I)
+
+ACHIEVEMENTS
+- Published 3 research papers on Machine Learning
+- Winner of AI Hackathon 2022
+- Contributed to 15+ open-source projects
+
+LANGUAGES
+- English (Native)
+- Spanish (Fluent)
+- French (Intermediate)

@@ -1,0 +1,71 @@
+Senior Machine Learning Engineer
+
+Company: AI Innovations Corp
+Location: San Francisco, CA (Hybrid)
+Type: Full-time
+
+ABOUT US
+AI Innovations Corp is a leading technology company specializing in artificial intelligence and machine learning solutions. We're looking for a talented Senior Machine Learning Engineer to join our growing team.
+
+JOB DESCRIPTION
+We are seeking an experienced Machine Learning Engineer to design, develop, and deploy advanced ML models and AI solutions. You will work on cutting-edge projects involving NLP, Computer Vision, and Deep Learning.
+
+KEY RESPONSIBILITIES
+- Design and implement machine learning models for production environments
+- Develop NLP solutions using transformers and BERT architecture
+- Build computer vision systems using deep learning frameworks
+- Deploy scalable ML solutions on cloud platforms (AWS/Azure/GCP)
+- Collaborate with cross-functional teams in agile environment
+- Optimize model performance and conduct A/B testing
+- Mentor junior engineers and provide technical leadership
+- Research and implement latest AI/ML techniques
+
+REQUIRED SKILLS & QUALIFICATIONS
+- 5+ years of experience in Machine Learning and AI
+- Strong proficiency in Python and related ML libraries
+- Expertise in Deep Learning frameworks: TensorFlow, PyTorch
+- Experience with NLP and transformer models (BERT, GPT)
+- Knowledge of Computer Vision techniques and CNNs
+- Hands-on experience with cloud platforms (AWS preferred)
+- Proficiency in Docker and Kubernetes for deployment
+- Strong understanding of Data Science and statistics
+- Experience with Pandas, NumPy, Scikit-learn
+- Knowledge of REST API development
+- Familiarity with SQL and NoSQL databases (PostgreSQL, MongoDB)
+- Experience with Git version control
+- Agile/Scrum methodology experience
+- Strong problem-solving and communication skills
+- Master's degree in Computer Science or related field
+
+PREFERRED QUALIFICATIONS
+- PhD in Machine Learning, AI, or related field
+- Experience with Kafka and distributed systems
+- Knowledge of MLOps and model monitoring
+- Publications in top-tier conferences
+- Contributions to open-source ML projects
+- AWS/Azure certifications
+- Experience with React or similar web frameworks
+- Knowledge of Spark for big data processing
+
+TECHNICAL STACK
+- Languages: Python, Java, JavaScript
+- ML/DL: TensorFlow, PyTorch, Keras, Scikit-learn
+- Cloud: AWS (SageMaker, EC2, S3), Docker, Kubernetes
+- Data: Pandas, NumPy, SQL, NoSQL
+- Tools: Git, Jupyter, VS Code
+- Frameworks: REST API, Node.js
+
+WHAT WE OFFER
+- Competitive salary ($150K - $200K based on experience)
+- Comprehensive health benefits
+- 401(k) matching
+- Flexible work arrangements
+- Professional development budget
+- Cutting-edge technology stack
+- Collaborative and innovative work environment
+- Opportunity to work on impactful AI projects
+
+TO APPLY
+Submit your resume highlighting your Machine Learning experience, projects, and relevant accomplishments. Include links to GitHub or portfolio if available.
+
+AI Innovations Corp is an equal opportunity employer committed to diversity and inclusion.
